@@ -1,3 +1,3 @@
 <?php
-echo"this is demo for php";
+echo"this is demo for  php";
 ?>
